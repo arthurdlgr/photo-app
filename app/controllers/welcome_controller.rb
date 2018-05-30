@@ -1,5 +1,5 @@
 class WelcomeController < ApplicationController
-  def indes
+  def index
   end
   
 end
