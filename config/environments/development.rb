@@ -11,7 +11,7 @@ Rails.application.configure do
 
   config.action_mailer.delivery_method = :test
   
-  config.action_mailer.default_url_options = { :host => '//ruby-course-arthurdlgr.c9users.io/'}
+  config.action_mailer.default_url_options = { :host => 'http//ruby-course-arthurdlgr.c9users.io/'}
     # Show full error reports.
   config.consider_all_requests_local = true
 
